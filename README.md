@@ -15,4 +15,4 @@ V nastavení repozitáře musí být v **Settings → Pages → Build and deploy
 - `dist/assets/rd-logo.png`: původní logo.
 - `dist/assets/workshop.webp`: generovaná ilustrační fotografie, nikoli skutečná provozovna.
 
-Telefon, adresa a otevírací doba čekají na doplnění od provozovatele. Nabídka služeb a texty o přístupu vycházejí z dosavadního návrhu.
+Kontakt: Robert Dumka, +420 777 537 037, rober.dumka@seznam.cz. Nabídka zahrnuje také karosářské práce. Adresa a otevírací doba čekají na doplnění od provozovatele. Ostatní nabídka služeb a texty o přístupu vycházejí z dosavadního návrhu.
